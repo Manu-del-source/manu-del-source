@@ -4,7 +4,7 @@
 
 I build practical web applications, APIs, and business software, with a focus on useful workflows, clear interfaces, and reliable integrations. My current work includes marketplace systems, point-of-sale software, developer tools, and business platforms.
 
-- **Portfolio:** [my-portfolio-phi-orcin-62.vercel.app](https://manu.smartbiz365.site/)
+- **Portfolio:** [https://manu.smartbiz365.site/](https://manu.smartbiz365.site/)
 - **GitHub:** [@Manu-del-source](https://github.com/Manu-del-source)
 - **Email:** [kiptooer142@gmail.com](mailto:kiptooer142@gmail.com)
 
