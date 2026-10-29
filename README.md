@@ -23,9 +23,6 @@ A Kenya-focused marketplace project exploring seller onboarding, product discove
 ### [ZenPOS](https://github.com/Manu-del-source/ZenPos)
 A point-of-sale and business-management platform for day-to-day retail operations.
 
-### [SecureSight CCTV](https://github.com/Manu-del-source/SecureSight-CCTV)
-A website and customer-facing workflow for CCTV and security-system services.
-
 ### [AI Security Audit](https://github.com/Manu-del-source/ai-security-audit)
 A developer-focused project for reviewing AI-related security risks.
 
